@@ -1,4 +1,4 @@
-- How to run
+# How to run
 ```bash
 yarn build
 ```
